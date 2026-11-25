@@ -34,3 +34,4 @@ Visualize the 3 core steps of PCR in each cycle:
 - Extension (~72℃)
 
 > This simulator is made for AP Biology / molecular biology self-study and classroom demonstration.
+> 
